@@ -7,6 +7,7 @@
    </head>
    <body>
 
+<img id="Sobrancelhas Perfeitas" src="Sobrancelhas.jpg">
 <h1> <strong> Sobrancelhas Perfeitas </strong> </h1>
 
  <p> As <em> sobrancelhas </em> representam um papel importante na harmonia e expressão facial. Ao longo das décadas, o design das sobrancelhas variou bastante, das mais finas e arqueadas às mais cheias e naturais. Nos anos 20, usava-se sobrancelhas muito finas, retas ou curvadas para baixo, conferindo um olhar dramático. Sua principal função é evitar que o suor, a água e outros detritos caiam na órbita ocular, mas também são importantes para a expressão facial e comunicação, especialmente entre os humanos. </p>
